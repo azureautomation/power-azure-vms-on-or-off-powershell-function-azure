@@ -1,0 +1,20 @@
+{
+    "Author": "paperclips",
+    "ContentSize": 5038,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/power-azure-vms-on-or-off-powershell-function-azure/master/Set-AzureVmPowerState.ps1",
+    "DownloadCount": 558,
+    "Id": "Power-Azure-VMs-on-or-off-c3d62756",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 462,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-1-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Simple function that will, based on a parameter switch ON/OFF determine if an Azure Virtual Macine is already powered \"on\" or \"off\" and change the power state of the Virtual Machine to what is specified in the \"power\" parameter selected by the user running the function. Verbose o",
+    "Title": "Power Azure VMs on or off - Powershell - Function - Azure",
+    "UpdatedDate": "2019-1-8T00:00:00",
+    "Url": "https://github.com/azureautomation/power-azure-vms-on-or-off-powershell-function-azure",
+    "UserTags": "Microsoft Azure, Powershell, Azure Automation"
+}
